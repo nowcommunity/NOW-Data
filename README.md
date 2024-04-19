@@ -1,2 +1,2 @@
 # NOW-Data
-Data related to the NOW databse
+Data related to the NOW database
